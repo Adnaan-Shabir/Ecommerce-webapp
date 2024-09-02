@@ -1,5 +1,5 @@
 # EasyBuy - Django Ecommerce Website
-## bOverview
+## Overview
 EasyBuy is a fully-featured ecommerce website built with Django, designed to provide a seamless online shopping experience. It includes an authentication system, product management, a shopping cart, order processing, and payment integration. The website is responsive and optimized for both desktop and mobile users.
 
 ## Features
